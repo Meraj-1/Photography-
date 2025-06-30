@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
     return (
-        <div className='justify-center items-start lg:px-150 pt-30'>
+        <div className='justify-center items-start lg:px-150 px-5 pt-30'>
             <h1 id='heading' className='text-6xl'>About Eden Rose</h1>
             <span id='para' className='text-sm'>
                 Eden Rose  is dedicated to capturing the beauty, joy, and romance of your special day.

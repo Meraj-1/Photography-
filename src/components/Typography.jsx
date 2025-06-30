@@ -2,7 +2,7 @@ import React from 'react'
 import Image from '../assets/assets'
 const Typography = () => {
   return (
-    <div className='flex flex-col pt-20 justify-center items-center '>
+    <div className='flex flex-col pt-20 justify-center px-5  items-center '>
      <img className='' src={Image.card} alt="" />
          <div className='justify-center items-start lg:px-150 pt-30'>
             <h1 id='heading' className='text-6xl'>Typography</h1>

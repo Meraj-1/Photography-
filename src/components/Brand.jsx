@@ -2,7 +2,7 @@ import React from 'react'
 
 const Brand = () => {
     return (
-        <div className='justify-center items-start lg:px-150 pt-30'>
+        <div className='justify-center items-start lg:px-150 px-5  pt-30'>
             <h1 id='heading' className='text-6xl'>Brand Identity</h1>
             <span id='para' className='text-sm'>
                 Eden Rose exudes elegance, romance, and timeless beauty. With a elegant color palette of black and white, 

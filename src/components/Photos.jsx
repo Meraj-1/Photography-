@@ -3,12 +3,12 @@ import Image from '../assets/assets'
 
 const photos = () => {
   return (
-    <div className='flex flex-col justify-center items-center pt-20'>
-        <div className='flex'>
+    <div className='flex md:flex-col justify-center items-center pt-20'>
+        <div className=''>
              <img src={Image.logo} alt="" />
             <img src={Image.image_r} alt="" />
         </div>
-        <div className='flex'>
+        <div className=''>
             <img src={Image.image_l} alt="" />
             <img src={Image.left} alt="" />
         </div>
