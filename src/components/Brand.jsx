@@ -10,7 +10,6 @@ const Brand = () => {
                  passion for capturing the most precious moments of love and joy ensure that every couple's special day is 
                  immortalized in stunning imagery. Eden Rose is synonymous with professionalism, creativity, and a deep understanding 
                  of the unique emotions that come with saying "I do."
-
             </span>
         </div>
     )

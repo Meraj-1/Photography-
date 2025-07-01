@@ -3,7 +3,7 @@ import Image from '../assets/assets'
 
 const photos = () => {
   return (
-    <div className='flex md:flex-col justify-center items-center pt-20'>
+    <div className='lg:flex justify-center items-center pt-20'>
         <div className=''>
              <img src={Image.logo} alt="" />
             <img src={Image.image_r} alt="" />
